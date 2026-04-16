@@ -1,2 +1,2 @@
 # kernel_daeta
-#include <KERNEL>
+자율동아리 OT
